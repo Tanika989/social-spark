@@ -135,15 +135,8 @@ Screenshots of the application's main screens and features are included below.
 
 ### App Screen 1
 
-Add your screenshot here.
+<img width="540" height="864" alt="image0" src="https://github.com/user-attachments/assets/785e86b3-af85-4cc1-88f7-057806d573c3" />
 
-### App Screen 2
-
-Add your screenshot here.
-
-### App Screen 3
-
-Add your screenshot here.
 
 ---
 
@@ -152,7 +145,7 @@ Add your screenshot here.
 A video presentation demonstrating the application's features will be provided here.
 
 **Video link:** 
-Add your video link here.
+https://mail.google.com/mail/u/0?ui=2&ik=8ccc71074a&attid=0.0&permmsgid=msg-f:1875391318415665199&th=1a06ba77c504682f&view=att&zw&disp=safe
 
 The video demonstrates the main features of Social Spark and shows how the application works.
 
